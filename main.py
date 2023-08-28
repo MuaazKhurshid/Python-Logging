@@ -15,4 +15,4 @@ logger = get_logger_obj()
 
 
 if __name__ == '__main__':
-    logger.info("Hello to Logging")
+    logger.info("Hello to Time Rotating Logging.")
