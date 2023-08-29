@@ -1,2 +1,1 @@
-2023-08-28 19:52:51,202 : INFO : __main__ : Hello to Logging
-2023-08-28 19:53:22,701 : INFO : __main__ : Hello to Logging
+2023-08-29 20:04:44,139 : INFO : __main__ : Hello to Time Rotating Logging.
